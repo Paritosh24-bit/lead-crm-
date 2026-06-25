@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "admin@company.com",
+      "name": "System Admin",
+      "role": "ADMIN",
+      "passwordHash": "123456"
+    }
+  ],
+  "leads": [],
+  "voiceNotes": [],
+  "tasks": [],
+  "reminders": [],
+  "activities": [],
+  "documents": [],
+  "communications": [],
+  "revenueMetrics": [
+    {
+      "category": "Digital",
+      "projectedRevenue": 50000,
+      "tillDateRevenue": 28000,
+      "finalRevenue": 60000
+    },
+    {
+      "category": "AI",
+      "projectedRevenue": 120000,
+      "tillDateRevenue": 85000,
+      "finalRevenue": 140000
+    },
+    {
+      "category": "Website",
+      "projectedRevenue": 75000,
+      "tillDateRevenue": 40000,
+      "finalRevenue": 80000
+    },
+    {
+      "category": "Books",
+      "projectedRevenue": 15000,
+      "tillDateRevenue": 9000,
+      "finalRevenue": 16000
+    },
+    {
+      "category": "workshops",
+      "projectedRevenue": 40000,
+      "tillDateRevenue": 22000,
+      "finalRevenue": 45000
+    }
+  ],
+  "showRevenueToUsers": false,
+  "poAssuredBusinesses": [],
+  "workshops": []
+}
